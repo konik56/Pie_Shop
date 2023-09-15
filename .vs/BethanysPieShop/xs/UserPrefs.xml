@@ -1,0 +1,89 @@
+﻿<Properties StartupConfiguration="{1BFD1B33-FAF4-4A64-AFE4-FE20B2291CB7}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BethanysPieShop/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="BethanysPieShop/Views/Order/Checkout.cshtml" />
+      <File FileName="BethanysPieShop/Models/Order.cs" />
+      <File FileName="BethanysPieShop/Controllers/OrderController.cs" />
+      <File FileName="BethanysPieShop/Controllers/PieController.cs" />
+      <File FileName="BethanysPieShop/Views/Pie/List.cshtml" />
+      <File FileName="BethanysPieShop/Models/Pie.cs" />
+      <File FileName="BethanysPieShop/Models/PieRepository.cs" />
+      <File FileName="BethanysPieShop/Controllers/ContactController.cs" Line="1" Column="1" />
+      <File FileName="BethanysPieShop/Controllers/HomeController.cs" Line="16" Column="1" />
+      <File FileName="BethanysPieShop/Program.cs" Line="30" Column="1" />
+      <File FileName="BethanysPieShop/Controllers/ShoppingCartController.cs" />
+      <File FileName="BethanysPieShop/Views/Shared/Components/CategoryMenu/Default.cshtml" />
+      <File FileName="BethanysPieShop/Views/Shared/_Layout.cshtml" />
+      <File FileName="BethanysPieShop/Models/Category.cs" Line="1" Column="1" />
+      <File FileName="BethanysPieShop/Views/Home/Index.cshtml" />
+      <File FileName="BethanysPieShop/Views/Shared/_PieCard.cshtml" />
+      <File FileName="BethanysPieShop/ViewModels/HomeViewModel.cs" />
+      <File FileName="BethanysPieShop/Views/Shared/Components/ShoppingCartSummary/Default.cshtml" />
+      <File FileName="BethanysPieShop/ViewModels/ShoppingCartViewModel.cs" />
+      <File FileName="BethanysPieShop/Models/ShoppingCartItem.cs" />
+      <File FileName="BethanysPieShop/ViewModels/PieListViewModel.cs" />
+      <File FileName="BethanysPieShop/Components/CategoryMenu.cs" />
+      <File FileName="BethanysPieShopTests/Controllers/PieControllerTest.cs" />
+      <File FileName="BethanysPieShopTests/Mocks/RepositoryMocks.cs" />
+      <File FileName="BethanysPieShopTests/Usings.cs" />
+      <File FileName="BethanysPieShop/TagHelpers/EmailTagHelper.cs" />
+      <File FileName="BethanysPieShop/Views/Contact/Index.cshtml" />
+      <File FileName="BethanysPieShopTests/TagHelpers/EmailTagHelperTests.cs" Line="1" Column="1" />
+      <File FileName="BethanysPieShop/libman.json" />
+      <File FileName="BethanysPieShop/appsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BethanysPieShop" expanded="True">
+            <Node name="BethanysPieShop" expanded="True">
+              <Node name="Components" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="TagHelpers" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Contact" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Order" expanded="True" />
+                <Node name="Pie" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="CategoryMenu" expanded="True" />
+                    <Node name="ShoppingCartSummary" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="ShoppingCart" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="BethanysPieShopTests" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="TagHelpers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="BethanysPieShop" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BethanysPieShop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

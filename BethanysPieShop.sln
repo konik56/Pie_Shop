@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BethanysPieShop", "BethanysPieShop\BethanysPieShop.csproj", "{1BFD1B33-FAF4-4A64-AFE4-FE20B2291CB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BethanysPieShopTests", "BethanysPieShopTests\BethanysPieShopTests.csproj", "{B90277E9-A50A-4137-A571-5C05ED32270C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BFD1B33-FAF4-4A64-AFE4-FE20B2291CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BFD1B33-FAF4-4A64-AFE4-FE20B2291CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BFD1B33-FAF4-4A64-AFE4-FE20B2291CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BFD1B33-FAF4-4A64-AFE4-FE20B2291CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B90277E9-A50A-4137-A571-5C05ED32270C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90277E9-A50A-4137-A571-5C05ED32270C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90277E9-A50A-4137-A571-5C05ED32270C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90277E9-A50A-4137-A571-5C05ED32270C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43370D5B-F311-4972-A0A3-598E4BA8773F}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 80
+		$3.TabsToSpaces = True
+		$3.scope = text/plain
+		$0.TextStylePolicy = $4
+		$4.inheritsSet = null
+		$4.scope = text/x-json
+		$0.TextStylePolicy = $5
+		$5.inheritsSet = null
+		$5.scope = text/x-web
+		$0.StandardHeader = $6
+	EndGlobalSection
+EndGlobal
